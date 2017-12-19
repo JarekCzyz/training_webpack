@@ -1,7 +1,7 @@
 console.log('ENGINE --- START');
 
 function Test() {
-  this.text = 'HEJO';
+  this.text = 'Test';
 }
 
 const newTest = new Test();
